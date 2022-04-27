@@ -22,7 +22,7 @@
 
 ### :man_technologist: About Me : I am a Junior Front-end Developer
 
-- 💻: I currently build solo projects to test and hone my Front-end skills.
+- 💻: I currently build projects to test and hone my Front-end skills.
 
 - :seedling: Open to internships and junior Front-end roles.
 

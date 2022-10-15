@@ -20,13 +20,13 @@
 
 ---
 
-### :man_technologist: About Me : I am a Junior Front-end Developer
+### :man_technologist: About Me : I am a Front-end Developer
 
 - 💻: I currently build projects to test and hone my Front-end skills.
 
 - :seedling: Open to internships and junior Front-end roles.
 
-- :zap: In my free time, I study Data structures and algorithms, listen to 🎵music and read tech articles.
+- :zap: In my free time, I study Data structures and algorithms, read books, discuss politics and listen to 🎵music.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-oyebade) [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://www.twitter.com/datsleumas)
 

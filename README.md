@@ -22,7 +22,7 @@
 
 ### :man_technologist: About Me : I am a Front-end Developer
 
-- 💻: I currently build projects to test and hone my Front-end skills.
+- 💻: I currently freelance by building responsive and interactive web apps for clients while actively looking for a full time role.
 
 - :seedling: Open to internships and junior Front-end roles.
 

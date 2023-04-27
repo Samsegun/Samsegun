@@ -24,7 +24,7 @@
 
 - 💻: I currently freelance by building responsive and interactive web apps for clients while actively looking for a full time role.
 
-- :seedling: Open to Front-end roles.
+- :seedling: Open to Front-end(on-site or remote) roles.
 
 - :zap: In my free time, I study Data structures and algorithms, read books, discuss politics and listen to 🎵music.
 

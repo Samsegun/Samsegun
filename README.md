@@ -22,7 +22,7 @@
 
 ### :man_technologist: About Me : I am a Front-end Developer
 
-- 💻: I currently freelance by building responsive and interactive web apps for clients while actively looking for a full time role.
+- 💻: I build responsive and performant web apps using the latest tools and technologies.
 
 - :seedling: Open to Front-end(on-site or remote) roles.
 

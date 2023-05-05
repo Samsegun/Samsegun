@@ -24,7 +24,7 @@
 
 - 💻: I build responsive and performant web apps using the latest tools and technologies.
 
-- :seedling: Open to Front-end(on-site or remote) roles.
+- :seedling: Open to Front-end roles.
 
 - :zap: In my free time, i read books, discuss politics and listen to music🎵.
 

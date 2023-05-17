@@ -42,14 +42,20 @@
 [![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://github.com/samsegun)
 [![TailwindCss](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://github.com/samsegun)
 
-<!-- <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" **alt="Tailwind" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" **alt="Typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  </div> -->
+<details>
+<p align="center">
+  <a href="https://github.com/samsegun">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samsegun&theme=transparent" />
+  </a>
+  <a href="https://github.com/samsegun">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samsegun&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/samsegun">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samsegun&theme=transparent" />
+  </a>
+  <a href="https://github.com/samsegun">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsegun&&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
   

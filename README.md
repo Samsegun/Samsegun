@@ -32,8 +32,15 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
+### :hammer_and_wrench: Languages, Technologies and Tools :
+[![JavaScript](https://img.shields.io/badge/django-black?style=for-the-badge&logo=javascript)](https://github.com/samsegun)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/samsegun)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)]
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)]
+[![TypeScript](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=typescript)]
+
+
+<!-- <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -42,5 +49,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" **alt="Tailwind" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" **alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  </div>
+  </div> -->
   

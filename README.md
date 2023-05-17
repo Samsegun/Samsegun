@@ -1,6 +1,6 @@
 <!-- header -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
   
   
   <div id="badges">
@@ -13,7 +13,7 @@
   </a>
 </div>
   <h2>
-  Hey there
+  Hey guys, Welcome to my page!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 </div>
@@ -58,4 +58,10 @@
   </a>
 </p>
 </details>
+
+<p align="center">
+  <a href="https://github.com/samsegun">
+    <img src="https://komarev.com/ghpvc/?username=samsegun&color=blue&style=flat)" />
+  </a>
+</p>
   

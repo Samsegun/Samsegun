@@ -33,11 +33,11 @@
 ---
 
 ### :hammer_and_wrench: Languages, Technologies and Tools :
-[![JavaScript](https://img.shields.io/badge/django-black?style=for-the-badge&logo=javascript)](https://github.com/samsegun)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/samsegun)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/samsegun)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)]
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)]
-[![TypeScript](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=typescript)]
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/samsegun)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/samsegun)
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/samsegun)
 
 
 <!-- <div>

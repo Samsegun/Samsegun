@@ -38,7 +38,7 @@
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/samsegun)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/samsegun)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/samsegun)
-[![NextJs](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=nextjs)](https://github.com/samsegun)
+[![NextJs](https://img.shields.io/badge/next-js-black?style=for-the-badge&logo=nextjs)](https://github.com/samsegun)
 [![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://github.com/samsegun)
 [![TailwindCss](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://github.com/samsegun)
 

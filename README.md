@@ -4,7 +4,7 @@
   
   
   <div id="badges">
-    <h1>Oyebade Samuel Segun </h1>
+    <h1>Oyebade Segun </h1>
   <a href="https://www.linkedin.com/in/samuel-oyebade">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>

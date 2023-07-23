@@ -50,12 +50,12 @@
   <a href="https://github.com/samsegun">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=samsegun&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/samsegun">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samsegun&theme=transparent" />
-  </a>
 <!--   <a href="https://github.com/samsegun">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsegun&&card_width=699&hide_border=true&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samsegun&theme=transparent" />
   </a> -->
+  <a href="https://github.com/samsegun">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsegun&&card_width=699&hide_border=true&theme=transparent" />
+  </a>
 </p>
 </details>
 

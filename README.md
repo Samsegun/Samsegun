@@ -53,9 +53,9 @@
   <a href="https://github.com/samsegun">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samsegun&theme=transparent" />
   </a>
-  <a href="https://github.com/samsegun">
+<!--   <a href="https://github.com/samsegun">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsegun&&card_width=699&hide_border=true&theme=transparent" />
-  </a>
+  </a> -->
 </p>
 </details>
 

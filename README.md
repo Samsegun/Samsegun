@@ -26,7 +26,7 @@
 
 - :seedling: Open to Front-end roles.
 
-- :zap: In my free time, i read books, discuss politics and ardent music lover🎵.
+- :zap: An ardent reader, keen on political issues and a music enthusiast🎵.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-oyebade) [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://www.twitter.com/samsegun10)
 

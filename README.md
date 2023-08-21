@@ -20,7 +20,7 @@
 
 ---
 
-### :man_technologist: About Me : I am a Front-end Developer
+### :man_technologist: About Me : I am a Frontend Developer
 
 - 💻: I build responsive and performant web apps using the latest tools and technologies.
 

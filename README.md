@@ -22,7 +22,7 @@
 
 ### :man_technologist: About Me : I am a Frontend Developer
 
-- 💻: I build responsive and performant web apps using the latest tools and technologies.
+- 💻: I build responsive and performant user interfaces using the latest tools and technologies.
 
 - :seedling: Open to Front-end roles.
 
